@@ -1,7 +1,6 @@
 
 # Taskify - React.js Task Management App
 
-![Taskify Preview](preview.png)
 
 ## Overview
 
